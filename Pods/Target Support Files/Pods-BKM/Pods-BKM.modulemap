@@ -1,0 +1,6 @@
+framework module Pods_BKM {
+  umbrella header "Pods-BKM-umbrella.h"
+
+  export *
+  module * { export * }
+}
